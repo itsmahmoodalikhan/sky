@@ -1,0 +1,32 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://skylarksitsolutionmarketing.000webhostapp.com/"
+  },
+  "headline": "",
+  "image": {
+    "@type": "ImageObject",
+    "url": "",
+    "width": "",
+    "height": ""
+  },
+  "author": {
+    "@type": "Organization",
+    "name": ""
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "datePublished": "2024-04-27"
+}
+</script>
